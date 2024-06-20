@@ -1,0 +1,1 @@
+outlines whoami commnd
